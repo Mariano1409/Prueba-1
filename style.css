@@ -1,0 +1,28 @@
+.box {
+
+    border-radius: 6px;
+    height: 40px;
+    width: 80px;
+    margin: 50px auto;
+           
+
+}
+
+.box-uno {
+    background-color: aqua;
+
+
+}
+
+.box-dos { 
+    background-color: blue;
+    transition: all 4s;
+}
+
+.box:hover {
+
+    transform: scale(4);
+
+} 
+
+
